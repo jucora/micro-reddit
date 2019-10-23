@@ -12,12 +12,6 @@
 
 ActiveRecord::Schema.define(version: 2019_10_23_195811) do
 
-  create_table "cars", force: :cascade do |t|
-    t.string "name"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-  end
-
   create_table "comments", force: :cascade do |t|
     t.text "body"
     t.integer "user_id", null: false
