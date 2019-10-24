@@ -1,24 +1,15 @@
-# README
+# Title
+Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description 
+Using the Rails console to play around with models. This is the fourth project of the ruby ​​on rails course as part of the microverse curriculum.
 
-Things you may want to cover:
+#### Link to the project
+[Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
 
-* Ruby version
+##### Authors
+[Hugo Passos](https://github.com/hugopassos)
+[Julian Belmonte](https://github.com/jucora)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+###### Language Used
+Ruby on Rails
